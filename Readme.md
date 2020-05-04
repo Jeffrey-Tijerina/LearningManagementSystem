@@ -11,12 +11,12 @@ Project deliverables to the client include a standalone application that can cre
 
 
 
- [x] student's name
+- [x] student's name
  
- [x] student's ID
+- [x] student's ID
  
- [x] registered courses in the current semester
+- [x] registered courses in the current semester
  
- [x] each exam's score per course
+- [x] each exam's score per course
  
- [x] GPA calculation in the current semester
+- [x] GPA calculation in the current semester
